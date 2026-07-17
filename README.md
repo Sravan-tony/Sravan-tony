@@ -19,7 +19,6 @@ I'm a highly driven **Robotics Engineer** with 2 years of professional experienc
 * 🔭 **Autonomous Navigation & AMRs:** Actively working with Autonomous Mobile Robots, implementing and tuning the **ROS2 Nav2 stack** for robust path planning and obstacle avoidance.
 * 🤖 **Advanced Robotic Platforms:** Hands-on experience developing and controlling the **Unitree G1 humanoid**, the **eb65 6DOF robotic cobot**, and custom 6DOF arms utilizing Hiwonder servos.
 * ⚙️ **Hardware Innovation:** Designing specialized sensor systems, including co-axial hybrid motor encoders with precision sequential disk placement.
-* 👨‍👦 **Off-screen:** When I'm not writing URDFs, simulating in Gazebo, or flashing Arduino microcontrollers, I enjoy spending quality time with my son.
 
 <br/>
 
