@@ -6,7 +6,7 @@
 <!-- SECTION A: ANIMATED HEADER -->
 # Hi there, I'm E.Sravan kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyNe/giphy.gif" width="35px" alt="wave">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS2+%26+Embedded+AI+Expert;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS2+%26+Embedded+Systems;Hardware+%26+Web+Innovator)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,36 +14,43 @@
 
 <!-- SECTION B: ABOUT ME -->
 ## 👤 About Me
-I'm a confident and driven **Robotics Engineer** with 2 years of professional experience specializing in **ROS2** and **Embedded AI**. I am passionate about bridging the gap between software and hardware to build intelligent, autonomous physical systems. Beyond engineering, I actively create content to share my technical journey and insights with the broader tech community.
+I'm an Electronics and **Robotics Engineer** with 2 years of experience specializing in **ROS2**, **Embedded AI**, and hardware design. I build autonomous systems from the ground up—from simulating environments to writing control logic for physical hardware. I'm also deeply interested in secure web platforms and innovative sensor engineering.
 
-* 🔭 Currently working on a 6DOF robot project utilizing Hiwonder servos and designing advanced, co-axial hybrid motor encoders.
-* 🌱 I’m expanding my skill set by learning web development to build secure, privacy-focused platforms.
-* 👨‍👦 When I'm not writing URDF files or simulating environments in Gazebo, I'm spending quality time with my son or tinkering with new Arduino embedded setups.
-* ⚡ **Fun fact:** I believe the absolute best way to debug a robot's logic is to let it loose in the real world and see what happens!
+* 🔭 **Robotics & Control:** Actively developing a 6DOF robot utilizing ROS2, Gazebo, URDF, and **Hiwonder servos**.
+* ⚙️ **Sensor Design:** Designing co-axial hybrid motor encoders (combining optical and magnetic elements placed sequentially) for precision navigation.
+* 🌐 **Web & Privacy:** Building a secure, privacy-focused "disappearing" document-sharing web platform for secure printing.
+* ⚡ **Embedded Systems:** Tinkering with Arduino and low-level hardware programming, bridging the gap between microcontrollers and complex robotic logic.
+* 👨‍👦 **Off-screen:** When I'm not debugging a launch file or troubleshooting serial ports on Linux, I'm spending quality time with my son.
 
 <br/>
 
 <!-- SECTION C: TECH STACK -->
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### Frontend (Learning & Prototyping)
+### Robotics, Simulation & Core Logic
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Embedded Systems & Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded" />
+  <img src="https://img.shields.io/badge/Sensor_Design-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Sensors" />
+</p>
+
+### Web Development & Prototyping
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
-### Backend & Core Logic
+### Tools & OS
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
-
-### Tools, Simulation & OS
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
