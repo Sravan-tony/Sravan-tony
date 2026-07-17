@@ -6,7 +6,7 @@
 <!-- SECTION A: ANIMATED HEADER -->
 # Hi there, I'm E.Sravan kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyNe/giphy.gif" width="35px" alt="wave">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS2+%26+Embedded+Systems;Hardware+%26+Web+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Robotics+Engineer;ROS2+%26+Nav2+Stack+Expert;Humanoids,+AMRs+%26+Cobots)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,43 +14,37 @@
 
 <!-- SECTION B: ABOUT ME -->
 ## 👤 About Me
-I'm an Electronics and **Robotics Engineer** with 2 years of experience specializing in **ROS2**, **Embedded AI**, and hardware design. I build autonomous systems from the ground up—from simulating environments to writing control logic for physical hardware. I'm also deeply interested in secure web platforms and innovative sensor engineering.
+I'm a highly driven **Robotics Engineer** with 2 years of professional experience specializing in **ROS2**, **Autonomous Navigation**, and complex robotic kinematics. My expertise lies in bringing sophisticated hardware to life, bridging the gap between low-level embedded systems and high-level autonomous planning. I thrive on developing robust solutions for everything from industrial cobots to cutting-edge humanoid platforms.
 
-* 🔭 **Robotics & Control:** Actively developing a 6DOF robot utilizing ROS2, Gazebo, URDF, and **Hiwonder servos**.
-* ⚙️ **Sensor Design:** Designing co-axial hybrid motor encoders (combining optical and magnetic elements placed sequentially) for precision navigation.
-* 🌐 **Web & Privacy:** Building a secure, privacy-focused "disappearing" document-sharing web platform for secure printing.
-* ⚡ **Embedded Systems:** Tinkering with Arduino and low-level hardware programming, bridging the gap between microcontrollers and complex robotic logic.
-* 👨‍👦 **Off-screen:** When I'm not debugging a launch file or troubleshooting serial ports on Linux, I'm spending quality time with my son.
+* 🔭 **Autonomous Navigation & AMRs:** Actively working with Autonomous Mobile Robots, implementing and tuning the **ROS2 Nav2 stack** for robust path planning and obstacle avoidance.
+* 🤖 **Advanced Robotic Platforms:** Hands-on experience developing and controlling the **Unitree G1 humanoid**, the **eb65 6DOF robotic cobot**, and custom 6DOF arms utilizing Hiwonder servos.
+* ⚙️ **Hardware Innovation:** Designing specialized sensor systems, including co-axial hybrid motor encoders with precision sequential disk placement.
+* 👨‍👦 **Off-screen:** When I'm not writing URDFs, simulating in Gazebo, or flashing Arduino microcontrollers, I enjoy spending quality time with my son.
 
 <br/>
 
 <!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack & Skills
 
-### Robotics, Simulation & Core Logic
+### Robotics & Autonomous Systems
 <p align="left">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/Nav2_Stack-FF5722?style=for-the-badge&logo=ros&logoColor=white" alt="Nav2" />
   <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/AMRs_%26_Cobots-000000?style=for-the-badge&logo=robot&logoColor=white" alt="Cobots" />
+  <img src="https://img.shields.io/badge/Unitree_G1-4B0082?style=for-the-badge&logo=android&logoColor=white" alt="Humanoids" />
+</p>
+
+### Programming & Core Logic
+<p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-### Embedded Systems & Hardware
+### Embedded Hardware & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded" />
-  <img src="https://img.shields.io/badge/Sensor_Design-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Sensors" />
-</p>
-
-### Web Development & Prototyping
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
-
-### Tools & OS
-<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -90,11 +84,8 @@ I'm an Electronics and **Robotics Engineer** with 2 years of experience speciali
 
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esravankumar6722/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Sravan-tony)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Sravan-tony)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sravan-tony)
 
 <br/>
-<p><i>Building the future of robotics and embedded systems, one line of code at a time. Let's collaborate and create something amazing together!</i></p>
+<p><i>Pushing the boundaries of autonomous navigation and robotic kinematics, one node at a time. Let's collaborate and build the future of robotics together!</i></p>
 
 </div>
